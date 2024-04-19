@@ -21,7 +21,6 @@ public class ReverseEveryWordInSentence {
 			revSen = revSen + revWord+" ";
 
 		}
-
 		System.out.println(revSen);
 
 	}
