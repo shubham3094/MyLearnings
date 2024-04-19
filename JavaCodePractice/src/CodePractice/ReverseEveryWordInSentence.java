@@ -9,7 +9,7 @@ public class ReverseEveryWordInSentence {
 		String revSen = "";
 		String[] arr = sen.split(" ");
 
-		for(int i=0;i<arr.length;i++) {
+		for(int i=0;i<=arr.length-1;i++) {
 
 			String revWord = "";
 			int len = arr[i].length()-1;

@@ -3,7 +3,7 @@ package CodePractice;
 import java.util.HashMap;
 import java.util.Map;
 
-public class FindDuplicateInArray {
+public class FindDuplicateInArrayUsingHashMap {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
