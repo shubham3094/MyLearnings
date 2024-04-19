@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;SwapNumbers.java&apos; to &apos;JavaCodePractice/src/CodePractice&apos;&#x0D;&#x0A;- Original project: &apos;JavaCodePractice&apos;&#x0D;&#x0A;- Destination element: &apos;JavaCodePractice/src/CodePractice&apos;&#x0D;&#x0A;- Original element: &apos;SwapNumbers.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;CodePractice" element1="/src&lt;{SwapNumbers.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1710655007361" units="1" version="1.0"/>
+</session>

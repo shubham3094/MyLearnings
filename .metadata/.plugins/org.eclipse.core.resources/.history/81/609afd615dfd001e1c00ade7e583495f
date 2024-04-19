@@ -1,0 +1,17 @@
+package CodePractice;
+
+public class ExtractLast4CharacterFromString {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		String input = "www.google.com";
+		
+		int len = input.length();
+		
+		String last4 = input.substring(len-4);
+		System.out.println("last 4 characters are "+last4);
+		
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;RestAssuredInBDDSTyle/src/test/java/features/placeValidations.feature&apos; to &apos;placeValidationsDummy.feature&apos;" description="Rename resource &apos;placeValidations.feature&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/test/java/features/placeValidations.feature" name="placeValidationsDummy.feature" stamp="1711178958118" updateReferences="true"/>
+</session>
