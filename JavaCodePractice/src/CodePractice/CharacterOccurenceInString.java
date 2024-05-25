@@ -8,6 +8,8 @@ public class CharacterOccurenceInString {
 	
 	int result = inputString.length()-inputString.replaceAll("a", "").length();
 	
+	System.out.println(inputString.replaceAll("a", ""));
+	
     System.out.println("occurence of character a is "+ result);
 }
 }
