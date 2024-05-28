@@ -32,6 +32,11 @@
 		</dependency>
 
 
+		<dependency>
+			<groupId>com.checkout.qa</groupId>
+			<artifactId>SeleniumBddProject</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 
 </project>
