@@ -20,7 +20,7 @@ public class HighestValueInHashMap {
 		for(Entry<String, Integer> mapp : map.entrySet() ) {
 			
 			if(mapp.getValue() == maxValue) {
-				System.out.println("The maximum salary of "+mapp.getKey()+" is"+mapp.getValue());
+				System.out.println("The maximum salary of "+mapp.getKey()+" is "+mapp.getValue());
 			}
 		}
 		
