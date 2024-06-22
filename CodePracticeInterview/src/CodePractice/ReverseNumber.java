@@ -4,8 +4,8 @@ public class ReverseNumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
-		System.out.println(reverseNum(123));
+		System.out.print("0");
+		System.out.print(reverseNum(1230));
 
 	}
 	
