@@ -29,16 +29,6 @@ public class FinallyContructorStaticAndInstanceinitializer {
 		new FinallyContructorStaticAndInstanceinitializer();
 		new FinallyContructorStaticAndInstanceinitializer("shubham");
 
-		try {
-			System.out.println("this is try");
-			throw new Exception();
-		}
-		catch(Exception e) {
-			System.out.println("this is catch");
-		}
-		finally {
-			System.out.println("this is finally block");
-		}
 	}
 
 }
